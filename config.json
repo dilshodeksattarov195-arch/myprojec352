@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceptringify",
+        "uuid": 197824,
+        "checksum": "g4bv4"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
